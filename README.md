@@ -4,6 +4,11 @@ all his complete works, plays, sonnets and poems
 ## Data Source
 https://shakespeare.folger.edu/shakespeares-works/
 
+## License
+The texts are the Folger Shakespeare digital editions, redistributed unchanged under
+[CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/): free for non-commercial use with
+credit to the Folger Shakespeare Library. Commercial use needs the Folger's permission. See `LICENSE`.
+
 ## List of content
 | Title                                 | Last Updated     |
 |---------------------------------------|------------------|
